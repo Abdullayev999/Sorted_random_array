@@ -1,0 +1,5 @@
+﻿  SortedRandomArray.cpp
+C:\Users\f-abd\source\repos\SortedRandomArray\SortedRandomArray\SortedRandomArray.cpp(212,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\SortedRandomArray\SortedRandomArray\SortedRandomArray.cpp(232,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\SortedRandomArray\SortedRandomArray\SortedRandomArray.cpp(249,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SortedRandomArray.vcxproj -> C:\Users\f-abd\source\repos\SortedRandomArray\Debug\SortedRandomArray.exe
